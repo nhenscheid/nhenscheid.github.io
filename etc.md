@@ -14,7 +14,7 @@ rank: 5
 ## Climbing
 
 ![]({{site.baseurl}}/assets/climbing/warpaint_12_16_small.jpg)
-*Sitting on top of Westworld Dome after climbing Warpaint (5p, 5.10c)*
+*Sitting on top of Westworld Dome after climbing Warpaint (5p, 5.10c)  Test* 
 
 ![]({{site.baseurl}}/assets/climbing/humphreys_15_small.jpg)
 *View from Mount Humphreys, Northern AZ*
