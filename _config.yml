@@ -3,7 +3,7 @@
 # Setup
 title:               Nick Henscheid
 tagline:             'Mathematician'
-description:         ''
+description:         'description'
 url:                 'http://nhenscheid.github.io'
 baseurl:             '/site'
 excerpt_separator:   <!--more-->
@@ -13,7 +13,7 @@ excerpt_separator:   <!--more-->
 # About/contact
 author:
   name:              Nick Henscheid
-  url:               nhenscheid.github.io
+  url:               http://nhenscheid.github.io
   email:             nick.henscheid@gmail.com
 
 # Permalinks
