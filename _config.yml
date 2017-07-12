@@ -1,17 +1,20 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+title:               Nick Henscheid
+tagline:             'Mathematician'
+description:         ''
+url:                 'http://127.0.0.1:4000/site'
+baseurl:             '/site'
+excerpt_separator:   <!--more-->
+# highlighter: rogue
+
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Nick Henscheid
+  url:               nhenscheid.github.io
+  email:             nick.henscheid@gmail.com
 
 # Permalinks
 
@@ -23,8 +26,17 @@ encoding: utf-8
 
 # Collections for texts
 collections:
-  texts:
+  posts:
     output: true
+    permalink: /:collection/:path/
+
+  research:
+    output: true
+    permalink: /:collection/:path/
+
+  teaching: 
+    output: true
+    permalink: /:collection/:path/
 
 # Markdown specs
 markdown: kramdown
@@ -37,11 +49,14 @@ kramdown:
   toc_levels:     1..6
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  input: GFM
+  syntax_highlighter: rouge
 
 # Custom vars
-version:             0.0.6
+version:             1.0
 
 # Exclusions from the final site
-exclude: [optional, vendor]
+include: ["_research","_teaching"]
+exclude: [optional, vendor,unused]
 
 
