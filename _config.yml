@@ -4,7 +4,7 @@
 title:               Nick Henscheid
 tagline:             'Mathematician'
 description:         ''
-url:                 'http://127.0.0.1:4000/site'
+url:                 'http://nhenscheid.github.io'
 baseurl:             '/site'
 excerpt_separator:   <!--more-->
 # highlighter: rogue
