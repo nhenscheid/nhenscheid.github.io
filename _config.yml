@@ -5,7 +5,7 @@ title:               Nick Henscheid
 tagline:             'Mathematician'
 description:         'description'
 url:                 'http://nhenscheid.github.io'
-baseurl:             '/'
+baseurl:             ''
 excerpt_separator:   <!--more-->
 # highlighter: rogue
 
