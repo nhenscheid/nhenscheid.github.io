@@ -28,7 +28,7 @@ rank: 2
 	<p>
 		{{ post.title }}
 		{{ post.excerpt }}	
-		<a href = "{{ site.baseurl }}{{ post.url}}">Read more!</a>
+		<a href = "{{ site.baseurl }}{{ post.url}}">Read more</a>
 	</p> 
 {% endfor %}
 </div>
