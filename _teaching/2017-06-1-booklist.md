@@ -1,0 +1,67 @@
+---
+layout: post
+title: List of Recommended Books
+category: qual
+---
+{:.no_toc}
+
+* ToC
+{:toc}
+---
+Over the years, I've gathered a list of books that I think are most directly pertinent to our qualifying exam.  Most are available digitally through the UA library.    
+
+<!--more-->
+
+### Linear Algebra
+
+   * *Linear Algebra Done Right*, Sheldon Axler.  This book isn't perfect, but it provides a great theoretical underpinning for linear algebra.  It begins with the concept that linear algebra is the study of linear maps on finite dimensional vector spaces, whereas most books begin with the notion of coordinate vectors and matrices.  One thing this book misses is a thorough discussion of matrix decompositions. 
+   * *Linear Algebra*, Hoffman and Kunze.  This book is a classic. 
+
+---
+
+### Differential Equations and Dynamical Systems
+* *Applied Partial Differential Equations*, Richard Haberman.  Most, if not all, the material on the qual regarding Fourier series and linear PDE (i.e. heat equation, Laplace equation) is found in this book.  Also has good chapters on Sturm-Liouville theory and the Fourier transform.
+* *Nonlinear Dynamics and Chaos*, Steven Strogatz.  Most (but not all) the qual material regarding linear stability analysis and phase planes is found here.  Intended to be more intuitive and less rigorous.
+* *Differential Equations and Dynamical Systems*, Lawrence Perko.  First two chapters are extremely relevant to the qual - the rest are more advanced.
+* *Differential Equations, Dynamical Systems and an Introduction to Chaos*, Hirsch, Smale and Devaney.  Extensive coverage of all the same topics as Strogatz but slightly more rigorous.
+
+--- 
+
+### Numerical Methods
+* *Numerical Analysis*, Rainer Kress.  This is at a slightly higher level than needed, but it's much more rigorous so I like it. It has a clear and (perhaps too) concise treatment of single and multi-step methods for initial value problems.
+* *Numerical Analysis*, Walter Gautschi.  This one has a more extensive analysis of single and multi-step methods.
+* *Analysis of Numerical Methods*, Isaacson & Keller.  Some profs use this book.  If yours didn't, you should buy it - it's a Dover, so it's less than $20, and it's timeless.  At least one or two questions every year come almost directly from this book.
+* *Computer Methods for ODE and DAE*, Ascher & Petzold.  Personally, this is one of my least favorite numerical analysis books.  I find it confusing, disorganized, and difficult to search.  Nevertheless, every qual has a question or two directly from this book, so you'll need to be familiar with it.  The above books offer similar material with better presentation, in my humble opinion. 
+
+
+--- 
+
+### Fourier Analysis
+* *Fourier Analysis*, T.W. Korner.  This is one of my favorite math books of all time.  It reads more like a novel, though, so it does lack searchability, but its conversational tone makes Fourier analysis seem enjoyable and approachable.
+* *Introduction to Fourier Analysis on Euclidean Spaces*, Stein & Weiss.  Really only chapter 1 is useful for the qual.  This book is on every harmonic analyst's shelf.  
+
+---
+
+### Complex Analysis
+* *Complex Variables, Introduction and Applications*, Ablowitz and Fokas.  Excellent book, probably just a little more advanced than necessary, but covers residue calculus extensively. 
+
+--- 
+
+### Real Analysis and Vector Calculus
+* *Counterexamples in Analysis*, Gelbaum.  A good reference for all sorts of strange counterexamples of convergence results e.g. "witches-hat" and "typewriter" functions. 
+* *Advanced Calculus*, Wilfred Kaplan.  Dry but comprehensive coverage of vector calculus and elementary analysis.  Most vector calculus questions on the qual have solutions somewhere in this book. 
+* *Div, Grad, Curl and All That*, H.M. Schey.  Somewhat overly conversational and geared towards first year physics undergrads, but still useful.  Presents all the classic theorems of vector calculus in \\(\Bbb{R}^2\\) and \\(\Bbb{R}^3\\) e.g. Green, Stokes, Gauss. 
+* *Analysis on Manifolds*, James Munkres.  Don't be mislead by the title, this book is really just about calculus on \\(\Bbb{R}^n\\).  It gives an extremely clear presentation of differentiation and (Riemann) integration in \\(\Bbb{R}^n\\) and then introduces differential forms and the general Stokes theorem.  While this is a little overly powerful for most our qual questions, it's good to know.
+
+---
+
+### Functional Analysis, Integral Equations, Spectral Theory, Green's Functions
+
+* *Introductory Functional Analysis with Applications*, Erwin Kreyszig.  This is a wonderful book, and perfect for this level.  It covers all the good stuff - infinite dimensional vector spaces, norms, metrics, inner products, basic operators including integral operators, differential operators, and basic spectral theory.   
+* *Principles of Applied Mathematics*, Bernard Friedman.  A very good basic book on functional analysis, integral equations and Green's functions - extremely relevant to the qual questions on these topics. 
+
+--- 
+
+### Theory of Distributions 
+* *A Guide to Distribution Theory and Fourier Transforms*, Robert Strichartz.  It's hard to find a book on the theory of distributions that isn't hopelessly technical.  Like Kreyszig for functional analysis, this is the correct book for this level in distribution theory.  It has most of what you need for the qual.
+* *Introduction to the Theory of Distributions*, F.G. Friedlander. Slightly more technical than Strichartz, but very well written.
