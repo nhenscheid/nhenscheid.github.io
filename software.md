@@ -11,6 +11,7 @@ rank: 3
 
 ---
 Software page coming soon!
+
 <!--
 ### TaskLab: A Matlab toolbox for  task-based image quality assessment
 
@@ -43,4 +44,4 @@ Brief Description
 
 Documentation link (arxiv)
 
-Github link.>
+Github link.-->
