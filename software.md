@@ -10,7 +10,8 @@ rank: 3
 {:toc}
 
 ---
-
+Software page coming soon!
+<!--
 ### TaskLab: A Matlab toolbox for  task-based image quality assessment
 
 Collaboration with Matt Kupinski, Luca Caucci. 
@@ -42,4 +43,4 @@ Brief Description
 
 Documentation link (arxiv)
 
-Github link.
+Github link.>
