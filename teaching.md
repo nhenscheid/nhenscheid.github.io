@@ -21,14 +21,14 @@ rank: 2
 
 ---
 
-### Recent Posts
+## Recent Posts
 {% assign posts = site.teaching | where:"category","qual"%}
 <div>
-{% for post in posts limit:2%} 
+{% for post in posts reversed limit:2%} 
 	<p>
-		{{ post.title }}
+		<span style = "display:block;text-align:center">{{ post.title }}</span>
 		{{ post.excerpt }}	
-		<a href = "{{ site.baseurl }}{{ post.url}}">Read more</a>
+		<a style = "display:block;text-align:right" href = "{{ site.baseurl }}{{ post.url}}">Read More...</a>
 	</p> 
 {% endfor %}
 </div>

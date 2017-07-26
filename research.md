@@ -49,7 +49,7 @@ To read more about specific projects, see below!
 
 ---
 
-### Sparsity based methods in image science
+### Sparsity based methods in image science 
 
 
 
