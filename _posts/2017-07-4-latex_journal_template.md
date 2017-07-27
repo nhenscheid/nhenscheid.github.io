@@ -16,7 +16,7 @@ In this post I talk about the LaTeX journal/large document template that I use. 
 ### Code 
 You can clone the git repository or download a zip of the template <a href="https://github.com/nhenscheid/latexjournaltemplate" target="_blank">here</a>.  
 
-Example compiled final document and subfiles:  <a href="/site/assets/latex/journal_template.pdf" target="_blank">Main file</a>, <a href="/site/assets/latex/math.pdf" target="_blank">First subfile</a>, <a href="/site/assets/latex/physics.pdf" target="_blank">Second subfile</a>
+Example compiled final document and subfiles:  <a href="/assets/latex/journal_template.pdf" target="_blank">Main file</a>, <a href="/assets/latex/math.pdf" target="_blank">First subfile</a>, <a href="/assets/latex/physics.pdf" target="_blank">Second subfile</a>
 
 ### Structure 
 The project is separated into folders, usually one folder per subfile (you can have multiple subfiles in a folder if you want).  For example, in the template, I have provided three folders: a `main` folder that contains the main LaTeX file, a stylesheet, and bibliography, then two folders for two subfiles, one called `math` and one called `physics`.
