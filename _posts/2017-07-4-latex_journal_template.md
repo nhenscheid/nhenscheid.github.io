@@ -13,7 +13,7 @@ In this post I talk about the LaTeX journal/large document template that I use. 
 
 ---
 
-### Code 
+### Code and Example Output
 You can clone the git repository or download a zip of the template <a href="https://github.com/nhenscheid/latexjournaltemplate" target="_blank">here</a>.  
 
 Example compiled final document and subfiles:  <a href="/assets/latex/journal_template.pdf" target="_blank">Main file</a>, <a href="/assets/latex/math.pdf" target="_blank">First subfile</a>, <a href="/assets/latex/physics.pdf" target="_blank">Second subfile</a>

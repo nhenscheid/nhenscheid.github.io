@@ -26,7 +26,7 @@ rank: 2
 <div>
 {% for post in posts reversed limit:2%} 
 	<p>
-		<span style = "display:block;text-align:center">{{ post.title }}</span>
+		<span style = "display:block;text-align:center;font-style:italic;">{{ post.title }}</span>
 		{{ post.excerpt }}	
 		<a style = "display:block;text-align:right" href = "{{ site.baseurl }}{{ post.url}}">Read More...</a>
 	</p> 
