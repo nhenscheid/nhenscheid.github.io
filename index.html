@@ -23,7 +23,7 @@ You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
   <h2>Recent Teaching Posts</h2>
   <ul class="post">
   {% assign posts = site.teaching | where:"category","qual" | reverse %}
-  {% for item in posts limit:2 do %}
+  {% for item in posts limit:2 %}
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -37,7 +37,7 @@ You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 <div class="toc">
   <h2>Recent Blog Posts</h2>
   <ul class="post">
-  {% for item in site.posts reversed limit:2 do %}
+  {% for item in site.posts reversed limit:2 %}
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -50,7 +50,7 @@ You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 <!--<div class="toc">
   <h2>Recent Papers</h2>
   <ul class="post">
-  {% for item in site.posts do %}
+  {% for item in site.posts %}
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
@@ -64,7 +64,7 @@ You can find my CV <a href="/assets/cv.pdf" target="_blank">here</a>.
 <div class="toc">
   <h2>Upcoming Events</h2>
   <ul class="post">
-  {% for item in site.posts do %}
+  {% for item in site.posts %}
     <li class="post-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
