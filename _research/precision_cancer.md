@@ -15,8 +15,9 @@ One of the major scientific goals of the 21st century is to make medicine _perso
 {:toc}
 ### Predictive Tasks
 
- What patient-specific information is actually gained through noisy emission imaging, and how can this information be used in predictive models?  How reliable are predictions made with this data? How practical is personalized, predictive medicine?  
+What patient-specific information is actually gained through noisy emission imaging, and how can this information be used in predictive models?  How reliable are predictions made with this data? How practical is personalized, predictive medicine?  
 
+Before we answer any of these questions
 
 --- 
 
